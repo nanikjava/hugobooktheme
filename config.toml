@@ -1,0 +1,5 @@
+baseURL = "/"
+title="Hugo Book"
+theme="hugo-book"
+disableKinds=['taxonomy', 'taxonomyTerm']
+
